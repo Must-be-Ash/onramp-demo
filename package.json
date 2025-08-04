@@ -1,6 +1,6 @@
 {
   "name": "cdp-onramp-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interactive CLI to set up CDP Onramp guest checkout with embedded wallets for Next.js applications",
   "main": "bin/cli.js",
   "bin": {
