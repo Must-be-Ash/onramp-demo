@@ -1,0 +1,50 @@
+{
+  "name": "cdp-onramp-demo",
+  "version": "1.0.0",
+  "description": "Interactive CLI to set up CDP Onramp guest checkout with embedded wallets for Next.js applications",
+  "main": "bin/cli.js",
+  "bin": {
+    "cdp-onramp-demo": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "templates/",
+    "docs/",
+    "hooks/",
+    "utils/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coinbase",
+    "cdp",
+    "onramp",
+    "crypto",
+    "nextjs",
+    "guest-checkout",
+    "embedded-wallets",
+    "cli",
+    "template",
+    "starter"
+  ],
+  "author": "CDP Developer Platform",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Must-be-Ash/onramp-demo"
+  },
+  "homepage": "https://github.com/Must-be-Ash/onramp-demo#readme",
+  "bugs": {
+    "url": "https://github.com/Must-be-Ash/onramp-demo/issues"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
