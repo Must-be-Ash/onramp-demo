@@ -245,18 +245,14 @@ vercel
 # Update CDP Portal with your production domain
 ```
 
-### Other Platforms
+---
 
-The generated Next.js app works with any platform supporting Node.js:
-- Netlify
-- Railway  
-- AWS Amplify
-- Self-hosted
+**Made by [@must_be_ash] (https://x.com/Must_be_Ash)**
 
-## 📝 License
-
-MIT License - see LICENSE file for details.
+This is made by me and not an official CDP app. It's not perfect and it's not meant to be the end product though it's fully functional and production ready. I made this as your starting point so you don't have to start from scratch. It's meant to get you started to build your next idea 🤍
 
 ---
 
-Built with ❤️ by the Coinbase Developer Platform team
+## 📄 License
+
+MIT License - feel free to use this template for your projects!
